@@ -1,0 +1,11 @@
+{"Server":
+		[
+			{"Server_Id": 0		,	"Port_Addr": 4444} ,
+			{"Server_Id": 11	,	"Port_Addr": 5555} ,
+			{"Server_Id": 22	,	"Port_Addr": 6666} ,
+			{"Server_Id": 33	,	"Port_Addr": 7777} ,
+			{"Server_Id": 44	, 	"Port_Addr": 8888} , 
+			{"Server_Id": 55	, 	"Port_Addr": 9999}
+
+		]
+}
